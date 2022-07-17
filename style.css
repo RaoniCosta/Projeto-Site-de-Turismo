@@ -1,0 +1,23 @@
+#cor {
+    background-color: rgb(133, 228, 133);
+}
+
+#cores {
+    background-color: rgb(247, 247, 112);
+}
+
+p {
+    color: rgb(235, 139, 29);
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    color: rgb(114, 43, 228); 
+    position: relative;
+    top: 40%;
+    left: 35%;
+
+    
+}
